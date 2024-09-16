@@ -20,7 +20,7 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/Ronil999/ownGPT
+  git clone https://github.com/Peris034/ownGPT
 ```
 
 Go to the project directory
